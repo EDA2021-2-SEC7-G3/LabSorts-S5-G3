@@ -6,6 +6,11 @@ Esta organización es una sugerencia que puede ser adaptada a  las necesidades y
 
 La estructura tiene los siguiente directorios y archivos:
 
+
+Integrantes:
+José Daniel Montero Gutiérrez, j.monterog@uniandes.edu.co, 202012732
+David Zamora Cortés, d.zamorac@uniandes.edu.co, 202113407
+
 -App
 
 Este directorio se utiliza para los archivos python desarrollados para responder a los retos del curso. Acá se pueden tener todos los archivos python que se necesiten
